@@ -1,0 +1,17 @@
+Superscaffold1:18149-18649
+Superscaffold1:19199-19499
+Superscaffold1:35249-36049
+Superscaffold1:56049-56499
+Superscaffold1:62099-62399
+Superscaffold1:68349-68699
+Superscaffold1:129349-141099
+Superscaffold1:135949-137949
+Superscaffold1:141749-144849
+Superscaffold1:145449-145899
+Superscaffold1:146449-149899
+Superscaffold1:191399-191649
+Superscaffold1:213949-214999
+Superscaffold1:222399-222699
+Superscaffold1:295549-295999
+Superscaffold1:302649-304949
+Superscaffold1:305249-305749

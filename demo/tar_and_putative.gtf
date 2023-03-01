@@ -1,0 +1,17 @@
+Superscaffold10	maker	CDS	23846547	23846703	.	+	1	gene_id PE_Scaf2629_3.7; transcript_id nbis-mrna-3649; ID PE_Scaf2629_3.7:cds; Parent nbis-mrna-3649;
+Superscaffold10	maker	exon	23848632	23848801	.	+	.	gene_id PE_Scaf2629_3.7; transcript_id nbis-mrna-3649; ID PE_Scaf2629_3.7:5; Parent nbis-mrna-3649;
+Superscaffold10	maker	CDS	23848632	23848801	.	+	0	gene_id PE_Scaf2629_3.7; transcript_id nbis-mrna-3649; ID PE_Scaf2629_3.7:cds; Parent nbis-mrna-3649;
+Superscaffold10	maker	exon	23849103	23849260	.	+	.	gene_id PE_Scaf2629_3.7; transcript_id nbis-mrna-3649; ID PE_Scaf2629_3.7:6; Parent nbis-mrna-3649;
+Superscaffold10	maker	CDS	23849103	23849260	.	+	1	gene_id PE_Scaf2629_3.7; transcript_id nbis-mrna-3649; ID PE_Scaf2629_3.7:cds; Parent nbis-mrna-3649;
+Superscaffold10	maker	exon	23854076	23854139	.	+	.	gene_id PE_Scaf2629_3.7; transcript_id nbis-mrna-3649; ID PE_Scaf2629_3.7:7; Parent nbis-mrna-3649;
+Superscaffold10	maker	CDS	23854076	23854139	.	+	2	gene_id PE_Scaf2629_3.7; transcript_id nbis-mrna-3649; ID PE_Scaf2629_3.7:cds; Parent nbis-mrna-3649;
+Superscaffold10	maker	exon	23854938	23855130	.	+	.	gene_id PE_Scaf2629_3.7; transcript_id nbis-mrna-3649; ID PE_Scaf2629_3.7:8; Parent nbis-mrna-3649;
+Superscaffold10	maker	CDS	23854938	23855130	.	+	1	gene_id PE_Scaf2629_3.7; transcript_id nbis-mrna-3649; ID PE_Scaf2629_3.7:cds; Parent nbis-mrna-3649;
+Superscaffold10	TAR_HMM	exon	23859049	23859349	.	-	0	gene_id Superscaffold10_23859049_23859349_-_34_0; transcript_id Superscaffold10_23859049_23859349_-_34_0; gene_name Superscaffold10_23859049_23859349_-_34_0; transcript_name Superscaffold10_23859049_23859349_-_34_0
+Superscaffold10	maker	gene	23860331	23885680	.	+	.	gene_id PE_Scaf2629_2.5; ID PE_Scaf2629_2.5; Name PE_Scaf2629_2.5;
+Superscaffold10	maker	transcript	23860331	23885680	.	+	.	gene_id PE_Scaf2629_2.5; transcript_id nbis-mrna-3646; ID nbis-mrna-3646; Name PE_Scaf2629_2.5; Parent PE_Scaf2629_2.5; original_biotype mrna;
+Superscaffold10	maker	exon	23860331	23860854	.	+	.	gene_id PE_Scaf2629_2.5; transcript_id nbis-mrna-3646; ID PE_Scaf2629_2.5:1; Parent nbis-mrna-3646;
+Superscaffold10	maker	five_prime_utr	23860331	23860824	.	+	.	gene_id PE_Scaf2629_2.5; transcript_id nbis-mrna-3646; ID PE_Scaf2629_2.5:five_prime_utr; Parent nbis-mrna-3646; original_biotype five_prime_UTR;
+Superscaffold10	maker	CDS	23860825	23860854	.	+	0	gene_id PE_Scaf2629_2.5; transcript_id nbis-mrna-3646; ID PE_Scaf2629_2.5:cds; Parent nbis-mrna-3646;
+Superscaffold10	maker	exon	23862635	23862753	.	+	.	gene_id PE_Scaf2629_2.5; transcript_id nbis-mrna-3646; ID PE_Scaf2629_2.5:2; Parent nbis-mrna-3646;
+Superscaffold10	maker	CDS	23862635	23862753	.	+	0	gene_id PE_Scaf2629_2.5; transcript_id nbis-mrna-3646; ID PE_Scaf2629_2.5:cds; Parent nbis-mrna-3646;
